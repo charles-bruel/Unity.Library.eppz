@@ -8,11 +8,11 @@
 	branch = master
 [submodule "Utils"]
 	path = Utils
-	url = https://github.com/eppz/Unity.Library.eppz.Utils
+	url = https://github.com/charles-bruel/Unity.Library.eppz.Utils
 	branch = master
 [submodule "Meshes"]
 	path = Meshes
-	url = https://github.com/eppz/Unity.Library.eppz.Meshes
+	url = https://github.com/charles-bruel/Unity.Library.eppz.Meshes
 	branch = master
 [submodule "Geometry"]
 	path = Geometry

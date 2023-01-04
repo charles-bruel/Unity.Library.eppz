@@ -1,0 +1,7 @@
+{
+	"name": "eppz",
+	"overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ]
+}

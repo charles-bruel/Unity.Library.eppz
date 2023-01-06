@@ -62,13 +62,7 @@ public static class EPPZExtensions
 			Point P2 = eachTriangle.GetVertex(2);
 			Point P1 = eachTriangle.GetVertex(1);
 			Point P0 = eachTriangle.GetVertex(0);
-
-			// Get centroid.
-			Vector2 centroid = new Vector2(
-				(float)(P2.X + P1.X + P0.X) / 3.0f,
-				(float)(P2.Y + P1.Y + P0.Y) / 3.0f
-			);
-
+            
 			_triangles.Add(P2.ID);
 			_triangles.Add(P1.ID);
 			_triangles.Add(P0.ID);

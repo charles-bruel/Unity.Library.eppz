@@ -75,6 +75,7 @@ public static class EPPZExtensions
 			mesh.MarkDynamic();
 		} else {
 			mesh = prevOrNull;
+			mesh.Clear();
 		}
 
 		mesh.vertices = _vertices;

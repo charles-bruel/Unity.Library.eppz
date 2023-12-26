@@ -1,5 +1,7 @@
 # eppz! [![Build Status](https://travis-ci.org/eppz/Unity.Test.eppz.png?branch=master)](https://travis-ci.org/eppz/Unity.Test.eppz)
 
+This fork from the original modifies the submodules to have Unity assembly references, to fix some issues I had when structuring my project. If this also fixes your problems, feel free to use this fork.
+
 **Unity everydayers** master project.
 
 ## Install as submodule

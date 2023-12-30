@@ -3,3 +3,4 @@
 
 ### Ignore meta (Unity)
 *.meta
+!eppz.asmdef.meta

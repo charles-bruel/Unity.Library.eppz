@@ -16,7 +16,7 @@
 	branch = master
 [submodule "Geometry"]
 	path = Geometry
-	url = https://github.com/eppz/Unity.Library.eppz.Geometry
+	url = https://github.com/charles-bruel/Unity.Library.eppz.Geometry
 	branch = master
 [submodule "Lines"]
 	path = Lines
